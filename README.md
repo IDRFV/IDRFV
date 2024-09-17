@@ -52,8 +52,7 @@ I am open to collaboration and inquiries. Feel free to connect:
 ---
 
 ## About Me
-
-With 5 years of experience as a data analyst, I bring expertise from the banking sector and software development. 
+ 
 My work focuses on solving complex data challenges with a structured, analytical approach and clear communication. 
 I am passionate about leveraging data to drive impactful business decisions.
 
