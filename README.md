@@ -52,8 +52,7 @@ I am open to collaboration and inquiries. Feel free to connect:
 
 ## About Me
  
-My work focuses on solving complex data challenges with a structured, analytical approach and clear communication. 
-I am passionate about leveraging data to drive impactful business decisions.
+My work focuses on solving complex data challenges with a structured, analytical approach and clear communication. I bring a unique perspective from my background in IT operations, where I gained a deep understanding of how data, technology, and business intersect. This combination allows me to deliver impactful insights and drive strategic decisions with confidence.
 
 
 Thank you for visiting my GitHub profile!
