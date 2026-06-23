@@ -38,7 +38,7 @@ short overview:
 ---
 
 ## Experience
-**Bentley Systems** — product usage analytics, arr linkage, cross-product behavior, feature cost analysis, large-scale datasets, Power BI semantic models  
+**Bentley Systems** — product usage analytics, arr linkage, cross-product behavior, feature cost analysis, large-scale datasets, Power BI semantic models, AI agents  
 **BNP Paribas** — data remediation and quality across 33 international databases, standardization, communication point with country directors  
 
 ---
