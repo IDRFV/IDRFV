@@ -6,21 +6,22 @@ My focus is on SQL transformations, Power BI modeling and clear analytical logic
 
 ---
 
-## Core skills
-🟦 Data modeling: star schema, semantic models, dataset structure   
-🟩 Power BI: DAX, semantic modeling, report logic  
-🟪 Databricks & Snowflake: SQL transformations, large-scale data exploration  
-🟧 Python: eda, data preparation  
-🟨 Data quality: remediation, standardization, cross-system consistency  
-🔹 Collaboration: product, ux, sustainability, engineering, executives  
+Core skills
+🟦 Data modeling: star schema, semantic models, dataset structure
+🟩 Power BI: DAX, semantic modeling, report logic
+🟪 Databricks & Snowflake: SQL transformations, large-scale data exploration
+🟧 SQL: querying, transformation logic, data preparation
+🟧 Python: exploratory analysis, data preparation
+🟨 Data quality: remediation, standardization, cross-system consistency
+🔹 Collaboration: product, ux, sustainability, engineering, executives
 
 ---
 
 ## What I actually do
 🟦 Analyze large-scale product usage data (1b+ rows)  
 🟩 Build semantic models and reporting logic in Power BI  
-🟪 Work with Databricks/Snowflake for SQL transformations  
-🟧 Prepare datasets for ai ingestion (semantic layer → AI agents)  
+🟪 Work with Databricks/Snowflake for SQL transformations, dashboards building, AI agents connection  
+🟧 Prepare and explore datasets using SQL and Python (querying, transformations, data preparation) 
 🟨 Resolve data quality issues across complex systems (BNP Paribas: 33 dbs)  
 🔹 Support product, UX, sustainability, engineering and business teams  
 
