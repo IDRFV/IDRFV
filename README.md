@@ -21,7 +21,7 @@ Core skills
 🟦 Analyze large-scale product usage data (1b+ rows)  
 🟩 Build semantic models and reporting logic in Power BI  
 🟪 Work with Databricks/Snowflake for SQL transformations, dashboards building, AI agents connection  
-🟧 Prepare and explore datasets using SQL and Python (querying, transformations, data preparation) 
+🟧 Prepare and explore datasets using SQL and Python (querying, transformations, data preparation)  
 🟨 Resolve data quality issues across complex systems (BNP Paribas: 33 dbs)  
 🔹 Support product, UX, sustainability, engineering and business teams  
 
