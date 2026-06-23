@@ -6,14 +6,14 @@ My focus is on SQL transformations, Power BI modeling and clear analytical logic
 
 ---
 
-Core skills
-🟦 Data modeling: star schema, semantic models, dataset structure
-🟩 Power BI: DAX, semantic modeling, report logic
-🟪 Databricks & Snowflake: SQL transformations, large-scale data exploration
-🟧 SQL: querying, transformation logic, data preparation
-🟧 Python: exploratory analysis, data preparation
-🟨 Data quality: remediation, standardization, cross-system consistency
-🔹 Collaboration: product, ux, sustainability, engineering, executives
+Core skills  
+🟦 Data modeling: star schema, semantic models, dataset structure  
+🟩 Power BI: DAX, semantic modeling, report logic  
+🟪 Databricks & Snowflake: SQL transformations, large-scale data exploration  
+🟧 SQL: querying, transformation logic, data preparation  
+🟧 Python: exploratory analysis, data preparation  
+🟨 Data quality: remediation, standardization, cross-system consistency  
+🔹 Collaboration: product, ux, sustainability, engineering, executives  
 
 ---
 
