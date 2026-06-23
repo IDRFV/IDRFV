@@ -1,6 +1,7 @@
 # Data & analytics
 
 I work with analytical systems and large-scale datasets, creating data models, semantic layers and reporting structures that support product, engineering and business teams. 
+
 My focus is on SQL transformations, Power BI modeling and clear analytical logic that scales across products and teams.
 
 ---
