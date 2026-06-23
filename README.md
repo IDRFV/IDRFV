@@ -1,58 +1,48 @@
-# Welcome to My GitHub Profile!
+# Data & analytics
 
-## 🎓 Data Analyst
-
-With 5 years of experience in the banking sector and software development, I specialize in using advanced tools and techniques to tackle complex data challenges. My goal is to provide clear, actionable insights through data analysis and visualization. My technical background enables me to approach problems from multiple perspectives, ensuring comprehensive solutions.
-
-### 💡 Key Skills
-- 📊 **Data Analysis & Visualization**: Expertise in creating impactful visualizations and performing comprehensive data analyses.
-- 🤖 **Machine Learning**: Knowledgeable in models like Naive Bayes and decision trees.
-- 🔬 **Hypothesis Testing**: Proficient in designing and interpreting tests to validate data-driven hypotheses.
-- 📈 **Logistic Regression**: Experienced in using logistic regression for predictive modeling.
-
-### 🛠️ Tools & Technologies
-- **Power BI**: Advanced skills in data visualization and business intelligence with extensive DAX knowledge.
-- **Tableau**: Adept at building detailed and dynamic dashboards.
-- **SQL**: Proficient in managing and querying databases.
-- **Python**: Applied for statistical analysis, data manipulation, and regression modeling. Continuously expanding skills in data science.
-
-### 📚 Certifications
-- **Google Advanced Data Analytics Certificate**: 9-month program covering exploratory data analysis, logistic regression, hypothesis testing, and machine learning models.
-### 🚀 Data Science Enthusiast
-Driven by a passion for data science, I am committed to learning and applying new techniques to solve data-related problems.
+I work with analytical systems and large-scale datasets, creating data models, semantic layers and reporting structures that support product, engineering and business teams. 
+My focus is on SQL transformations, Power BI modeling and clear analytical logic that scales across products and teams.
 
 ---
 
-## 📈 **Data Analysis Reports**
-Explore my work on:
-- **Client Churn in a Mobile Navigation App**: In-depth analysis including EDA and predictive modeling.
-- **Employee Retention in a Consulting Firm**: Detailed exploration of employee retention factors with EDA and regression analysis.
-
-Access the reports and models here:
-
-- [**View Data Analysis Reports**](https://drive.google.com/drive/folders/1LufYgH-iAzBnxcNzL9jDauPsEi2eUL4Z?usp=sharing)
-
----
-
-## 🎮 **Word Guessing Game**
-This Python project was my final assignment for the "Code in Place" course by Stanford University, showcasing my coding skills.
-
-- [**Explore the Word Guessing Game**](https://codeinplace.stanford.edu/cip3/share/9zXfwphXidIrF12udhF9)
+## Core skills
+🟦 Data modeling: star schema, semantic models, dataset structure   
+🟩 Power BI: DAX, semantic modeling, report logic  
+🟪 Databricks & Snowflake: SQL transformations, large-scale data exploration  
+🟧 Python: eda, data preparation  
+🟨 Data quality: remediation, standardization, cross-system consistency  
+🔹 Collaboration: product, ux, sustainability, engineering, executives  
 
 ---
 
-## 📫 Get in Touch
-
-I am open to collaboration and inquiries. Feel free to connect:
-
-- [LinkedIn](https://www.linkedin.com/in/isabel-vasco-349565182/)
-- [Email](mailto:idrfv@icloud.com)
+## What I actually do
+🟦 Analyze large-scale product usage data (1b+ rows)  
+🟩 Build semantic models and reporting logic in Power BI  
+🟪 Work with Databricks/Snowflake for SQL transformations  
+🟧 Prepare datasets for ai ingestion (semantic layer → AI agents)  
+🟨 Resolve data quality issues across complex systems (BNP Paribas: 33 dbs)  
+🔹 Support product, UX, sustainability, engineering and business teams  
 
 ---
 
-## About Me
- 
-My work focuses on solving complex data challenges with a structured, analytical approach and clear communication. I bring a unique perspective from my background in IT operations, where I gained a deep understanding of how data, technology, and business intersect. This combination allows me to deliver impactful insights and drive strategic decisions with confidence.
+## Current project (analytics engineering direction)
+**ecommerce-analytics-pipeline**  
+short overview:
+- ingestion  
+- cleaning and normalization  
+- SQL transformations  
+- dbt staging/intermediate/marts (learning through real project)  
+- star schema  
+- Power BI semantic model  
 
+---
 
-Thank you for visiting my GitHub profile!
+## Experience
+**Bentley Systems** — product usage analytics, arr linkage, cross-product behavior, feature cost analysis, large-scale datasets, Power BI semantic models  
+**BNP Paribas** — data remediation and quality across 33 international databases, standardization, communication point with country directors  
+
+---
+
+## Contacts
+linkedin: https://www.linkedin.com/in/isabel-vasco-349565182/  
+email: idrfv@icloud.com
